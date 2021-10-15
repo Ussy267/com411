@@ -6,3 +6,5 @@ character = input()
 if  len ( character ) == 1:
     ASCII = ord( character )
     print (f"The ASCII code for {character} is {ASCII}.")
+
+print("Program Ended!")
