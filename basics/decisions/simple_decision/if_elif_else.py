@@ -12,4 +12,4 @@ elif  direction == "down":
 elif direction == "left":
     print("i am painting in the left direction")
 elif direction == "right":
-    print("I am painting in the right dirction")
+    print("I am painting in the right direction")
